@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import { useSelector } from "react-redux";
+// import { useSelector } from "react-redux";
 import Nav from "./components/Nav";
-import { selectUser } from "./features/counter/userSlice";
+// import { selectUser } from "./features/counter/userSlice";
 import { auth } from "./firebase";
 import "./Profile.css";
 import CheckRoundedIcon from "@mui/icons-material/CheckRounded";
